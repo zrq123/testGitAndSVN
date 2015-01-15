@@ -22,6 +22,7 @@
     
     char ss[]="1234567889";
     strcpy(ss, "abc456");
+    変更２
     // Do any additional setup after loading the view, typically from a nib.
 }
 
