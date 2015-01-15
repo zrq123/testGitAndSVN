@@ -18,8 +18,10 @@
     [super viewDidLoad];
     int i=0;
     i++;
-    error
+    //error
     
+    char ss[]="1234567889";
+    strcpy(ss, "abc456");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
