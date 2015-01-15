@@ -20,7 +20,7 @@
     int j=0;
     j++;
     
-    昨日
+    
     return YES;
 }
 
