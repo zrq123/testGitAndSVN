@@ -19,6 +19,7 @@
     // Override point for customization after application launch.
     int j=0;
     j++;
+    今日は
     return YES;
 }
 
